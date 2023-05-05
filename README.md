@@ -1,7 +1,7 @@
 ### Hey! My name is Svitlana!👋
 Let me introduce myself😄
 
-<p>I'm opened for projects in a dynamic and fast-paced organization where I can utilize my technical skills and creativity to develop innovative web applications. Spend significant time in Chrome Inspector more, than on actual websites. A determined individual with excellent communication skills. Passionate about using my unique background along with my technical skills to create software that will impact the lives of end users. Truly believe in giving attention to smallest detail that has the power to separate good user experience from a great one.✨</p>
+<p>I'm junior front-end developer. I'm opened for projects in a dynamic and fast-paced organization where I can utilize my technical skills and creativity to develop innovative web applications. Spend significant time in Chrome Inspector more, than on actual websites. A determined individual with excellent communication skills. Passionate about using my unique background along with my technical skills to create software that will impact the lives of end users. Truly believe in giving attention to smallest detail that has the power to separate good user experience from a great one.✨</p>
 
 <h3>📫 You can find me here:</h3><a href="https://linkedin.com/in/svitlana-kovalenko-920b4723a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svitlana-kovalenko-920b4723a" height="30" width="40" /></a><a href="https://t.me/kovalenko_sv" target="blank"><img align="center" src="https://i.pinimg.com/originals/90/49/01/904901b5d3ff49e2af05f0b6201015b8.png" alt="svitlana-kovalenko" height="30" width="40" /></a>
 
